@@ -161,35 +161,6 @@
     display: flex;
     justify-content: center;
 }
-.contenedorGaleria{
-    display: flex;
-    justify-content: center;
-    gap: 90px;
-    padding-bottom: 50px;
-}
-.ImagenGaleria1{
-    background-image: url("imagenes/im1.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 250px;
-    width: 400px;
-    margin-top: 20px;  
-    margin-bottom: 20px;  
-    cursor: pointer;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-}
-.ImagenGaleria2{
-    background-image: url("imagenes/in2.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 250px;
-    width: 400px;
-    margin-top: 20px;  
-    margin-bottom: 20px;    
-    cursor: pointer;
-}
 
 
 
@@ -208,6 +179,6 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 25px;
     text-align: right;
-    margin-right: 555px;
-    margin-bottom: 900px;
+    margin-right: 105px;
+    margin-bottom: 200px;
 }
